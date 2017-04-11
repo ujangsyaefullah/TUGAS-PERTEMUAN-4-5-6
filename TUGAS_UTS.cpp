@@ -92,7 +92,7 @@ switch(pilihan)
 				cout << "Masukkan Nilai Angka       : "; cin >> angka;
 				cout <<"------------------------------"<<endl;
 				
-				if (i == 1) { //Nilai data pertama menjadi nilai minimum
+				if (i == 1) { //Nilai data pertama menjadi nilai maxsimum
 					max = angka;
 				}
 				else{}
